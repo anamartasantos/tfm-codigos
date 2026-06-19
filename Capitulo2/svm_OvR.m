@@ -1,4 +1,3 @@
-%% Ilustración
 %% SVM Multiclase - Enfoque One-versus-Rest (OvR) y Resultado Final
 % Autor: Ana Marta Oliveira dos Santos
 % Fecha: Junio de 2026
