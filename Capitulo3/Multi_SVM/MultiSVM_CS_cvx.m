@@ -1,5 +1,5 @@
 %% Predicción SVM All-together de Crammer & Singer
-% Autoría: Directores del proyecto con adaptación
+% Autoría: Directores del proyecto con adaptación de la autora
 % Contexto: Herramienta utilizada en el Capítulo 3 del TFM de Ana Marta Oliveira dos Santos
 % Nota: Este código es una implementación base proporcionada por los tutores 
 % del proyecto. La única modificación realizada respecto al 
